@@ -27,23 +27,3 @@ The network leverages a shared embedding and recurrent sequence-processing backb
   * **Head 2 (Hate Speech Branch)**: Softmax Dense Layer (3 outputs)
 
 ---
-
-## 🛠️ Requirements & Installation
-To run the notebook, install the following dependencies:
-```bash
-pip install tensorflow pandas numpy nltk matplotlib scikit-learn
-
----
-
-### Step 3: Send it to GitHub
-Now, copy and paste these final lines one by one (or all together) and hit **Enter**:
-
-```bash
-# 1. Track the new README file
-git add README.md
-
-# 2. Package it with a save message
-git commit -m "Add professional README documentation"
-
-# 3. Push it directly to your repository
-git push origin main
